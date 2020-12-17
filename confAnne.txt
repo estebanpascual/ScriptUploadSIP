@@ -1,0 +1,6 @@
+Nom:AnneBoleyn
+IpSip:192.168.254.254
+NomSip:452
+AuthSip:452
+MdpSip:secret
+NomAffiche:AnneBoleyn
